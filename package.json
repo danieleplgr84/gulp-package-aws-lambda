@@ -1,0 +1,30 @@
+{
+  "name": "gulp-package-aws-lambda",
+  "version": "1.0.0",
+  "description": "create a zip archive with all src files and module dependencies",
+  
+  "main": "src/index.js",
+  
+  "scripts": {
+    "test": [ ]
+  },
+  
+  "keywords": [
+    "gulp",
+    "aws lambda",
+    "copy dependencies",
+    "zip"
+  ],
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danieleplgr84/gulp-package-aws-lambda"
+  },
+  "author": "Daniele Pellegrini <danieleforit@gmail.com>",
+  "license": "ISC",
+  
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
