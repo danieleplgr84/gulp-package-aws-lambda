@@ -1,6 +1,6 @@
 {
   "name": "gulp-package-aws-lambda",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "create a zip archive with all src files and module dependencies",
   
   "main": "src/index.js",
